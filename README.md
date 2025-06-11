@@ -93,5 +93,5 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-analysis.git
+   git clone https://github.com/sridharanrajagopal/covid19-analysis.git
    cd covid19-analysis
